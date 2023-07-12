@@ -10,7 +10,7 @@ export class CriarPensamentoComponent implements OnInit {
   pensamento = {
     conteudo: "Hey you! Yo Yo",
     autoria: "HebIO",
-    modelo: "modelo3",
+    modelo: "modelo3"
   }
 
   constructor() { }
